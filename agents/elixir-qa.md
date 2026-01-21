@@ -1,6 +1,6 @@
 
 ---
-name: elixir-check
+name: elixir-qa
 description: Runs mix precommit and returns concise summaries of any formatting, Credo, compilation, Dialyzer, or test issues. Use this agent to run Elixir quality checks without verbose output in the main context.
 tools: Read, Edit, MultiEdit, Write, Bash, Grep, mcp__tidewave__project_eval, mcp__tidewave__get_source_location, mcp__tidewave__get_docs
 model: sonnet
